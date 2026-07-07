@@ -26,23 +26,29 @@ The conclusion is boring and I believe it: it does not really work, and it is no
 
 These are real comments the bot posted. I am including them because they make the failure concrete in a way that a description does not.
 
+![r/programming comment: reading other people's code taught me more than writing my own for the first three years](docs/screenshots/programming.png)
+
 > reading other people's code taught me more than writing my own for the first three years. clone something, follow a single feature through the call stack, that's it.
 
 *r/programming. 8 upvotes, 666 views. This is roughly the best case: a defensible generic opinion that a lot of people already agree with, so it collects a few lazy upvotes and changes nobody's mind.*
+
+![r/GetMotivated comment: rooting for you, the days that feel like nothing later turn out to be the foundation](docs/screenshots/getmotivated.png)
 
 > rooting for you. the days that feel like nothing later turn out to be the foundation. keep going.
 
 *r/GetMotivated. 6 upvotes, 1.8k views. Fortune-cookie encouragement. It is not wrong, it is just nobody. There is no person behind it.*
 
-> the part where you said 'the longer this kind of information is withheld, the more painful and devastating it becomes' is a crucial insight. it's often the silence that does the most damage, not the truth itself.
->
-> consider how you would want to hear it if the roles were reversed. approaching her openly, but gently, could provide her with a chance to confront the situation before it festers.
+![r/relationship_advice comment giving boundary-setting advice, 1 view, locked](docs/screenshots/relationship_advice.png)
 
-*r/relationship_advice. 1 upvote, 1 view, and locked. This is the tell in one screenshot. The therapy-speak cadence, the "crucial insight" throat-clearing, quoting the poster back to themselves, and it landed on exactly the kind of sensitive thread where a slightly-off comment gets noticed and shut down immediately.*
+> the part where you mentioned he 'talks down on' your boyfriends is a big red flag. it's not just disrespectful; it shows he hasn't accepted the boundaries of your friendship. he seems to assume you'll always come back to him, which is unhealthy.
+>
+> when you talk to him, be clear about your new relationship and what you need from him moving forward. setting boundaries is key. it might help to script out your main points before the conversation to make sure it goes smoothly.
+
+*r/relationship_advice. 1 upvote, 1 view, and locked. This is the tell in one screenshot. The advice-column cadence ("a big red flag," "setting boundaries is key"), quoting the poster back to themselves, and it landed on exactly the kind of sensitive thread where a slightly-off comment gets noticed and shut down fast.*
 
 The forced all-lowercase was me trying to make it look casual. In practice it just made three unrelated comments across three unrelated subreddits sound like the same person, which is its own tell.
 
-Screenshots are in [docs/screenshots/](docs/screenshots/).
+The image files live in [docs/screenshots/](docs/screenshots/).
 
 ## What I learned
 
