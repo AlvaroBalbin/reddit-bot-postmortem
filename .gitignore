@@ -1,0 +1,13 @@
+# the persistent browser profile held a real logged-in session. never commit it.
+state/
+
+# secrets
+.env
+
+# build output + deps
+dist/
+node_modules/
+
+# logs
+logs/
+*.log
